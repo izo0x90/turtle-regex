@@ -4,8 +4,8 @@
          /      \  |  o | 
         |        |/ ___\| 
         |_________/     
-        |_|_| |_|_|                                                            Turtle part of the logo credit goes to:
---====:::Turtle RegEx                                                 https://www.asciiart.eu/animals/reptiles/turtles
+        |_|_| |_|_|                                      Turtle part of the logo credit goes to:
+--====:::Turtle RegEx                            ttps://www.asciiart.eu/animals/reptiles/turtles
 ```
 This is an incomplete (and likely incorrect in someways) implementation of a RegEx engine is pure Python.
 
