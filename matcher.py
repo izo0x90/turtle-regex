@@ -103,6 +103,8 @@ class GroupAllNode(GroupNode):
 
 @dataclass
 class GroupGreadyRepeatNode(GroupNode):
+    # TODO: (Hristo) Fix range matching for upper limit (if exceeded only stop, match is still true)
+    # TODO: (Hristo) Fix Matching `.` any char is not lazy so consumes all
     min_repeat_count: int | None = None
     max_repeat_count: int | None = None
 
