@@ -1,0 +1,15 @@
+[project]
+name = "turtle-regex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "rich>=14.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.406",
+    "ruff>=0.14.1",
+]
